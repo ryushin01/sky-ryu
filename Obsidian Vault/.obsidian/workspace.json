@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -232,11 +232,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "88102d933807b04c",
+  "active": "fc37464b03a45962",
   "lastOpenFiles": [
+    "Flutter + FVM (IntelliJ IDEA ver.).md",
     "20250424.md",
     "20250423 - 20250424.md",
-    "Flutter + FVM (IntelliJ IDEA ver.).md",
     "IntelliJ IDEA + Flutter + FVM 2.md",
     "IntelliJ IDEA + Flutter + FVM 1.md",
     "Project access tokens.md",
